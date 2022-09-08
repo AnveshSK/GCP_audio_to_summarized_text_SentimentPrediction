@@ -7,7 +7,7 @@ Google Speech to Text API
 Vertex AI (AutoML)
 
 Basic workflow :
-  sc_gcp_project.py 
+  speech_to_text.py 
 -> Audio frame rate and channels are determined
 -> creates a bucket in GCP and uploads the locally stored audio file. 
 -> The Google speech to text API is used to find the transcript, which is then stored in the bucket. 
