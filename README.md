@@ -22,4 +22,8 @@ Basic workflow :
 -> Utilizing the endpoints, we use the model to covert the text to a summarized version.
 
 
-Note : You would need to authorize with your JSON key from your GCP account.
+Note : 
+Things you would need :
+- JSON key from your GCP account 
+- Endpoint ID from your AutoML model
+- Project ID from your current project under your GCP account
