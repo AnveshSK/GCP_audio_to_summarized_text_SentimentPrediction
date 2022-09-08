@@ -20,3 +20,6 @@ Basic workflow :
 -> Bucket is created in GCP and locally stored transcript is uploaded. 
 -> AutoML's Sentiment Analysis model was trained on multiple appropriate datsets resulting in a accuracy of 92.6%
 -> Utilizing the endpoints, we use the model to covert the text to a summarized version.
+
+
+Note : You would need to authorize with your JSON key from your GCP account.
